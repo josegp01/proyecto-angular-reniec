@@ -1,0 +1,55 @@
+
+.navBar{
+
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    align-items: center;
+    background-color: #004e52;
+    color: white;
+}
+
+.example-form {
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+}
+
+.example-full-width {
+  width: 100%;
+}
+
+td {
+  padding-right: 8px;
+}
+mat-label{
+  color: #000  ;
+}
+
+.example-form {
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+  margin: auto;
+  display: grid;
+  img{
+    margin: auto;
+  }
+}
+
+.example-full-width {
+  width: 100%;
+  display: grid;
+  padding-top: 10px;
+  justify-content: center;
+}
+.tablet{
+  display: grid;
+}
+td {
+  padding-right: 8px;
+}
+input{
+  color: black !important;
+}
